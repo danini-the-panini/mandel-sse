@@ -1,0 +1,4 @@
+mandel
+mandel_simd
+*.ppm
+.vscode
